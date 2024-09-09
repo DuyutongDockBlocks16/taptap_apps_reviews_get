@@ -5,12 +5,7 @@
     工程输出：相关目标表
 
 0x01 项目基本信息
-    
-    用于启动项目的堡垒机：阿里云：47.93.86.224，内网ip：10.116.150.141。外网ip曾用：39.97.184.99
-    工程路径：/home/duyt/MultiTaptapAppsReviewGet
-    工程虚拟环境：/home/duyt/ENV_TaptapAppReviewGet/bin
-    工程redis路径：/usr/local/redis
-    工程mysql路径：/usr/lib64 用户名：root 密码：7D9gQwpiI8n4TyV_7D9gQwpiI8n4TyV DB：data_pub
+
 
 0x02 入口函数
 
